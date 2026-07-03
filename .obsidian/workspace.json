@@ -11,10 +11,14 @@
             "id": "c7e20d4be709b95d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "articles/generic/2026-07-03-How-we-built-an-internal-data-analytics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-03-How-we-built-an-internal-data-analytics"
             }
           }
         ]
@@ -151,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "articles/generic/2026-07-03-How-we-built-an-internal-data-analytics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-07-03-How-we-built-an-internal-data-analytics 的大纲"
             }
           },
           {
@@ -188,12 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8ee71351ec008ff",
+  "active": "c7e20d4be709b95d",
   "lastOpenFiles": [
+    "articles/generic/2026-07-02-听歌看MV-音悦台-少数派.md",
     "articles/zhihu/2026-07-03-无标题.md",
     "articles/zhihu",
     "articles/generic/2026-07-03-How-we-built-an-internal-data-analytics.md",
-    "articles/generic/2026-07-02-听歌看MV-音悦台-少数派.md",
     "articles/generic/2026-07-03-听歌看MV-音悦台-少数派.md",
     "articles/generic/README.md",
     "articles/generic/2026-07-03-探寻Liquid-Glass的实现原理-少数派.md",
