@@ -1,10 +1,18 @@
 ---
-url: "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+url: https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/
 platform: Web
 date: 2026-07-03
-tags: [data analytics, LLM, Copilot, natural language to SQL, LangChain, self-serve analytics, internal tool, GPT-4]
-source_title: "How we built an internal data analytics agent"
-author: "Matteo Vasirani"
+tags:
+  - LLM
+  - Copilot
+  - LangChain
+  - GPT-4
+  - data_analytics
+  - internal_tool
+  - self-serve_analytics
+  - natural_language_to_SQL
+source_title: How we built an internal data analytics agent
+author: Matteo Vasirani
 doc_type: guide
 ---
 # 🧭 How we built an internal data analytics agent

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#音乐",
+                "query": "tag:natural_language_to_SQL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7e20d4be709b95d",
+  "active": "eaca3808f8197a85",
   "lastOpenFiles": [
     "articles/generic/2026-07-02-听歌看MV-音悦台-少数派.md",
     "articles/zhihu/2026-07-03-无标题.md",
